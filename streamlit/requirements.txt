@@ -4,7 +4,7 @@ st_pages
 numpy
 pandas
 geopandas
-regex
+re
 geopy
 folium
 streamlit_folium
