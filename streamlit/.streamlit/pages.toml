@@ -1,0 +1,19 @@
+[[pages]]
+path = "healthhack_main.py"
+name = "Home"
+icon = ":house:"
+
+[[pages]]
+path = "donatable.py"
+name = "What Can I Donate?"
+icon = ":pill:"
+
+[[pages]]
+path = "inventory.py"
+name = "Current Inventory"
+icon = ":clipboard:"
+
+[[pages]]
+path = "closest_map.py"
+name = "Closest Donation Box"
+icon = ":round_pushpin:"
