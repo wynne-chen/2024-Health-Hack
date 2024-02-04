@@ -2,6 +2,7 @@ streamlit == 1.30.0
 streamlit_authenticator
 st_pages
 numpy
+re2
 pandas
 geopandas
 geopy
