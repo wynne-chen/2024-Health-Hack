@@ -1,8 +1,8 @@
-streamlit == 1.30.0
+python==3.10.9
+streamlit
 streamlit_authenticator
 st_pages
 numpy
-re2
 pandas
 geopandas
 geopy
